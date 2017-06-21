@@ -3,7 +3,7 @@ html {
   font-family: Helvetica;
 }
 h1 {
-  font-size: 70px
+  font-size: 70px;
   font-weight: bold;
   color: white;
 }
@@ -12,7 +12,7 @@ a {
   color: white;
 }
 .header {
-  background-image: image("resources/images/the-flatiron-building");
+  background-image: image("resources/images/the-flatiron-building.png");
 }
 h2 {
   font-size: 32px;
