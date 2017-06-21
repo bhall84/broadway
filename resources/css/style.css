@@ -7,3 +7,29 @@ h1 {
   font-weight: bold;
   color: white;
 }
+a {
+  font-size: 18px;
+  color: white;
+}
+.header {
+  background-image: image("resources/images/the-flatiron-building");
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
+#midheader {
+  color: white;
+}
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
